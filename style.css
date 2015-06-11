@@ -1,0 +1,75 @@
+form{
+	margin-bottom:20px;
+}
+
+a{
+	padding:10px;
+	text-decoration: none;
+	background-color:rgb(54, 91, 237);
+	color:white;
+	border-radius: 10px;
+	transition:0.2s;
+}
+
+a:hover{
+	font-size:1.1em;
+}
+
+table td{
+	border:1px solid black;
+	/*padding:10px;*/
+}
+
+table th{
+	border:1px solid red;
+	padding: 10px;
+}
+
+table{
+	border:1px solid black;
+}
+
+h3{
+	position:fixed;
+	top:0;
+	margin-left:200px;
+	background-color:rgb(54, 91, 237);
+	border-radius: 8px;
+	color:white;
+	visibility:hidden;
+	padding:10px;
+	transition:3s;
+}
+
+button{
+	background-color:rgb(54, 91, 237);
+	border-radius: 8px;
+	color:white;
+	padding:10px;
+	border:none;
+}
+
+button:hover{
+	background:linear-gradient(rgb(54, 91, 237),rgb(103, 124, 207));
+}
+
+span.low{
+	background-color: green;
+	color:white;
+	display:block;
+	padding:10px;
+}
+
+span.normal{
+	background-color: blue;
+	color:white;
+	display:block;
+	padding:10px;
+}
+
+span.high{
+	background-color: red;
+	color:white;
+	display:block;
+	padding:10px;
+}

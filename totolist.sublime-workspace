@@ -1,0 +1,489 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"p",
+				"phrases"
+			],
+			[
+				"parse",
+				"parseInt"
+			],
+			[
+				"pars",
+				"parseInt"
+			],
+			[
+				"footer",
+				"footerbottom"
+			],
+			[
+				"a",
+				"age"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 666,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "page.phtml",
+			"settings":
+			{
+				"buffer_size": 1500,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "style.css",
+			"settings":
+			{
+				"buffer_size": 295,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "remove-all.php",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ajout.php",
+			"settings":
+			{
+				"buffer_size": 598,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "data.csv",
+			"settings":
+			{
+				"buffer_size": 135,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 201.0,
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/wap55/sites/Todolist/data.csv",
+		"/home/wap55/sites/moteur de recherche/index.php",
+		"/home/wap55/sites/moteur de recherche/page.phtml",
+		"/home/wap55/sites/Traducteur PHP/resultat-recherche.phtml",
+		"/home/wap55/sites/Traducteur PHP/page.phtml",
+		"/home/wap55/sites/Traducteur PHP/index.php",
+		"/home/wap55/sites/Traducteur PHP/resultat.php",
+		"/home/wap55/sites/Get Post/resultat.phtml",
+		"/home/wap55/sites/Traducteur PHP/traducteurphp.sublime-project",
+		"/home/wap55/sites/Get Post/page.phtml",
+		"/home/wap55/sites/Get Post/index.php",
+		"/home/wap55/sites/Get Post/Traducteur.phtml",
+		"/home/wap55/sites/Get Post/traduction.phtml",
+		"/home/wap55/sites/Get Post/calcul.phtml",
+		"/home/wap55/sites/Imitation Game start/main.js",
+		"/home/wap55/sites/Imitation Game start/index.html",
+		"/home/wap55/sites/Get Post/resulat.phtml",
+		"/home/wap55/Documents/3wa/tableau(javascript)/tableau.html",
+		"/home/wap55/sites/Jeu aléatoire/exercice-6.html",
+		"/home/wap55/sites/Jeu aléatoire/exercice-6.js",
+		"/home/wap55/sites/Jeu aléatoire/game.func.js",
+		"/home/wap55/sites/Jeu aléatoire/exercice-6-full.js",
+		"/home/wap55/sites/exercice-wonder/css/style.css",
+		"/home/wap55/sites/applications/index.php",
+		"/home/wap55/sites/applications/css/index.css",
+		"/home/wap55/sites/bluemaster/8 - blue-master/css/style.css",
+		"/home/wap55/Documents/3wa/JavaScript/fonctions/chiffre mistère/index.html",
+		"/home/wap55/Documents/3wa/JavaScript/fonctions/chiffre mistère/js/app.js",
+		"/home/wap55/Documents/3wa/JavaScript/JS/JS1.js",
+		"/home/wap55/Documents/3wa/JavaScript/fonctions/objet/js/app.js",
+		"/home/wap55/Documents/3wa/JavaScript/fonctions/js/app.js",
+		"/home/wap55/Documents/3wa/tableau(javascript)/js/app.js",
+		"/home/wap55/Documents/3wa/tableau(javascript)/Fruits(javascript)/script/app.js",
+		"/home/wap55/Documents/3wa/JavaScript/fonctions/horloge/index.html",
+		"/home/wap55/Documents/3wa/JavaScript/fonctions/horloge/js/app.js",
+		"/home/wap55/Documents/3wa/JavaScript/fonctions/page.html",
+		"/home/wap55/Documents/3wa/JavaScript/JavaScript, Exemple 1.html",
+		"/home/wap55/Documents/3wa/tableau(javascript)/phrase/index.html",
+		"/home/wap55/Documents/3wa/tableau(javascript)/phrase/js/app.js",
+		"/home/wap55/Documents/3wa/tableau(javascript)/Fruits(javascript)/tableau(fruits).html",
+		"/home/wap55/Documents/3wa/Tableau/Tableau.html",
+		"/home/wap55/sites/bluemaster/8 - blue-master/index.php",
+		"/home/wap55/sites/bluemaster/8 - blue-master/script/script.js",
+		"/home/wap55/sites/exercice-wonder/header.php",
+		"/home/wap55/sites/exercice-wonder/index.php",
+		"/home/wap55/sites/bluemaster/8 - blue-master/home-article.php",
+		"/home/wap55/sites/bluemaster/8 - blue-master/sidebar.php",
+		"/home/wap55/sites/bluemaster/8 - blue-master/menu2.php",
+		"/home/wap55/sites/bluemaster/8 - blue-master/menu.php",
+		"/home/wap55/sites/bluemaster/8 - blue-master/footer.php",
+		"/home/wap55/sites/bluemaster/8 - blue-master/header.php",
+		"/media/wap55/Cruzer/sites/bluemaster2/8 - blue-master/css/style.css",
+		"/media/wap55/Cruzer/Nouveau dossier/sites/bluemaster2/8 - blue-master/css/style.css",
+		"/home/wap55/sites/bluemaster/8 - blue-master/categories.php",
+		"/home/wac20/sites/exercice-wonder/css/style.css",
+		"/home/wac20/Bureau/3wa/business-secret-erwin/index.html",
+		"/home/wac20/sites/exercice-wonder/index.php",
+		"/home/wac20/sites/exercice-wonder/contacts.php",
+		"/home/wac20/sites/exercice-wonder/remerciements.php",
+		"/home/wac20/sites/exercice-wonder/footer.php",
+		"/home/wac20/sites/exercice-wonder/header.php",
+		"/home/wac20/sites/exercice-wonder/menu.php",
+		"/home/wac20/sites/exercice-wonder/script/script.js",
+		"/home/wac20/Téléchargements/stylesheet.css",
+		"/home/wac20/sites/exercice-wonder/index2.php",
+		"/home/wac20/sites/exercice-wonder/footer2.php",
+		"/home/wac20/Bureau/3wa/Formulaires/Index.html",
+		"/home/wac20/Bureau/3wa/Formulaires/css/style.css",
+		"/home/wac20/sites/exercice-wonder/index.html",
+		"/home/wac20/Bureau/3wa/business-secret-erwin/css/style.css",
+		"/home/wac20/Bureau/3wa/sites/exercice-wonder/css/style.css",
+		"/home/wac20/Bureau/3wa/exercice-wonder/index.html",
+		"/home/wac20/Bureau/3wa/exercice-wonder/index2.html",
+		"/home/wac20/Bureau/3wa/Business Secret/index.html",
+		"/home/wac20/Bureau/3wa/Business Secret/css/style.css",
+		"/home/wac20/Bureau/3wa/greenorange/css/maquette.css",
+		"/home/wac20/Bureau/3wa/fresh-restaurant/css/style.css",
+		"/home/wac20/Bureau/3wa/fresh-restaurant/index.html",
+		"/home/wac20/Bureau/3wa/greenorange/index.html",
+		"/home/wac20/Bureau/3wa/Révision css/index.html",
+		"/home/wac20/Bureau/3wa/Révision css/css/normalize.css",
+		"/home/wac20/Bureau/3wa/Révision css/Lien.html",
+		"/home/wac20/Bureau/3wa/Révision css/css/style.css",
+		"/home/wac20/Bureau/3wa/Formulaires/Results.html",
+		"/home/wac20/Bureau/3wa/Formulaires/Formulaires.html",
+		"/home/wac20/Bureau/3wa/Tableau/Tableau.html",
+		"/home/wac20/Bureau/3wa/Tableau/css/style.css",
+		"/home/wac20/Bureau/3wa/Position/index.html",
+		"/home/wac20/Bureau/3wa/Tableau/CSS/style.css",
+		"/home/wac20/Bureau/3wa/Position/position.html",
+		"/home/wac20/Bureau/3wa/Position/css/reset.css",
+		"/home/wac20/Bureau/3wa/Position/css/style.css",
+		"/home/wac20/Bureau/3wa/JavaScript/JS/JS1.js",
+		"/home/wac20/Bureau/3wa/JavaScript/JavaScript, Exemple 1.html",
+		"/home/wac20/Bureau/3wa/fresh-restaurant/css/reset.css",
+		"/home/wac20/Bureau/3wa/fresh-restaurant/aboutus.html",
+		"/home/wac20/Bureau/3wa/fresh-restaurant/Contacts.html",
+		"/home/wac20/Bureau/3wa/greenorange/css/reset.css",
+		"/home/wac20/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/wac20/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/wac20/Bureau/3wa/maquette.html",
+		"/home/wac20/Bureau/3wa/lien.html",
+		"/home/wac20/Bureau/3wa/maquette.css",
+		"/home/wac20/Bureau/3wa/reset.css",
+		"/home/wac20/Bureau/3wa/nouvelleliste.css",
+		"/home/wac20/Bureau/3wa/Liste.html",
+		"/home/wac20/Bureau/01-typo.html",
+		"/home/wac20/Bureau/style.css",
+		"/home/wac20/Bureau/3wa/nouvelle liste.css",
+		"/home/wac20/.cache/.fr-0JcHa9/green_orange/reset.css"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"hover",
+			"\";\n",
+			"+ ",
+			");",
+			"media",
+			"blue",
+			"5",
+			"\n",
+			"5",
+			"hover",
+			"3",
+			"20px",
+			";\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.php",
+					"settings":
+					{
+						"buffer_size": 666,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								535,
+								535
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "page.phtml",
+					"settings":
+					{
+						"buffer_size": 1500,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								86,
+								86
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "style.css",
+					"settings":
+					{
+						"buffer_size": 295,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								215,
+								215
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "remove-all.php",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "ajout.php",
+					"settings":
+					{
+						"buffer_size": 598,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								464,
+								464
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "data.csv",
+					"settings":
+					{
+						"buffer_size": 135,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								135,
+								135
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 112.0,
+	"status_bar_visible": true
+}

@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+<meta charset="utf-8">
+<link rel="stylesheet" href="style.css">
+
+<script src="script/jquery.js"></script>
+<script src="script/owl.carousel.js"></script>
+<script src="script/script.js"></script>
+<head>
+	<title>Todolist</title>
+</head>
+<body>
+	<button class="masquertaches">Afficher/Masquer les tâches</button>
+
+	<section>
+		<?php
+		echo '<form method="POST" action="remove-choice.php" class="affichagetaches">';
+		for($i=0;$i<count($todo);$i++)
+		{
+			$tache = $todo[$i];
+			if(($i+1)==1)
+			{
+				echo '<h2>'.($i+1).'ère tâche('.$tache[1].') : </h2>';
+			}
+			else
+			{
+				echo '<h2>'.($i+1).'ème tâche('.$tache[1].') : </h2>';
+			}
+			echo '<table>';
+			echo '<tr>';
+			echo '<th>Supprimer</th>';
+			echo '<th>Intitulé</th>';
+			echo '<th>Commentaires</th>';
+			echo '<th>Date</th>';
+			echo '<th>priorité</th>';
+			echo '</tr>';
+			echo '<td>';
+			echo '<input type="checkbox" name="supprimer[]" value="'.$i.'">';
+			echo '</td>';
+			echo '<td>';
+			echo $titre = $tache[0];
+			echo '</td>';
+			echo '<td>';
+			echo $description = $tache[1];
+			echo '</td>';
+			echo '<td>';
+			echo $date = $tache[2];
+			echo '<td>';
+			$prio = $tache[3];
+			if($tache[3]=="basse")
+			{
+				echo '<span class="low">'.$prio.'</span>';
+			}
+			else if($tache[3]=="normale")
+			{
+				echo '<span class="normal">'.$prio.'</span>';
+			}
+			else if($tache[3]=="haute")
+			{
+				echo '<span class="high">'.$prio.'</span>';
+			}
+			echo '</td></table>';
+		}
+		echo '<button>Supprimer les tâches selectionnées</button>';
+		echo '</form>';
+		?>
+	</section>
+
+	<div>
+		<form method="POST" action="ajout.php">
+			
+			<br><label>Titre</label>
+			<p><input type="text" name="title"></p>
+			<p><label>Descrption</label></p>
+			<p><textarea name="comments" rows="10" cols="50"></textarea></p>
+			<p><label>Date de fin : </label></p>
+			<select name="day">
+				<?php
+				for($i=1;$i<=31;$i++)
+				{
+					echo "<option value='".$i."'>".$i."</option>";
+				}
+				?>
+			</select>
+			<select name="month" value="month">
+				<option>janvier</option>
+				<option>février</option>
+				<option>mars</option>
+				<option>avril</option>
+				<option>mai</option>
+				<option>juin</option>
+				<option>juillet</option>
+				<option>aout</option>
+				<option>septembre</option>
+				<option>octobre</option>
+				<option>novembre</option>
+				<option>décembre</option>
+			</select>
+<!--		<select>
+			<?php for($mois=1;$mois<=12;$mois++) : ?>
+			<option value="<?php echo $mois; ?>"><?php echo $mois; ?></option>
+		<?php endfor; ?>
+	</select>-->
+	<select name="year">
+		<?php for($annee=date('Y');$annee<='2025';$annee+=1) : ?>
+		<option value="<?php echo $annee; ?>"><?php echo $annee; ?></option>
+	<?php endfor; ?>
+</select>
+<p><label>Priorité</label></p>
+<select name="prio" value="prio">
+	<option>basse</option>
+	<option>normale</option>
+	<option>haute</option>
+</select>
+<input type="submit">
+</form>
+</div>
+<a href="remove-all.php">Supprimer toutes les tâches</a>
+
+<?php 
+if (array_key_exists("success", $_GET))
+{
+	echo ("<h3>Tache ajoutée avec succès</h3>");
+}
+?>
+
+
+
+</body>
+</html>
